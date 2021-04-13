@@ -8,3 +8,6 @@
 * img _(all image files goes in here)_
 * js _(all js files goes in here)_
 * third _(all third-party libraries goes in here)_
+
+## How to view the website
+> Just drag in the `index.html` file into your browser.
