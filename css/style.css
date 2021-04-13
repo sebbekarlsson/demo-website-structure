@@ -1,0 +1,15 @@
+/* General rules & styling */
+@import 'reset.css';
+@import 'typography.css';
+
+
+/* Components & elements */
+@import 'components/banner.css';
+@import 'components/section.css';
+@import 'components/container.css';
+@import 'components/btn.css';
+
+
+/* Third party libraries */
+@import '../third/icons-1.4.1/font/bootstrap-icons.css';
+@import '../third/animate.min.css';

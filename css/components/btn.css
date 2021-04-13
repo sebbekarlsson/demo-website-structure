@@ -1,0 +1,11 @@
+.btn {
+    background-color: black;
+    color: white;
+    height: 32px;
+    min-width: 128px;
+    display: inline-block;
+}
+
+p+.btn {
+    margin-top: 0.5rem;
+}
